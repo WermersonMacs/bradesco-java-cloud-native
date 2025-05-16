@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bradesco-java-cloud-native.iml" filepath="$PROJECT_DIR$/.idea/bradesco-java-cloud-native.iml" />
-      <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projetos-java/projetos-java.iml" filepath="$PROJECT_DIR$/projetos-java/projetos-java.iml" />
     </modules>
   </component>
 </project>
