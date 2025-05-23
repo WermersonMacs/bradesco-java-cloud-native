@@ -1,4 +1,4 @@
-package collectionsJavaApi.Pesquisa;
+package collectionsJavaApi.Set.Pesquisa;
 
 public class Livro {
 

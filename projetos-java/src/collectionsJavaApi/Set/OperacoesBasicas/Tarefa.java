@@ -1,4 +1,4 @@
-package collectionsJavaApi.OperacoesBasicas;
+package collectionsJavaApi.Set.OperacoesBasicas;
 
 // Classe que representa uma tarefa
 public class Tarefa {

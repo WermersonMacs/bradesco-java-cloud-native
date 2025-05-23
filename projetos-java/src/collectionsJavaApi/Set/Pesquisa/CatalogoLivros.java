@@ -1,6 +1,4 @@
-package collectionsJavaApi.Pesquisa;
-
-import org.w3c.dom.ls.LSInput;
+package collectionsJavaApi.Set.Pesquisa;
 
 import java.util.ArrayList;
 import java.util.List;

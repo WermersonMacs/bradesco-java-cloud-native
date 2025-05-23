@@ -1,4 +1,4 @@
-package collectionsJavaApi.OperacoesBasicas;
+package collectionsJavaApi.Set.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
