@@ -1,4 +1,4 @@
-package collectionsJavaApi.Set.Ordenacao;
+package collectionsJavaApi.Set.Ordenacao.Pessoas;
 
 import java.util.Comparator;
 
